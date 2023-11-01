@@ -1,10 +1,10 @@
-# 📱 Hesap Makinesi
+# 🧮 Hesap Makinesi
 
-Bu program ile SMS mesajlarını hızlı bir şekilde belirlediğiniz numaralara gönderebilirsiniz. Birden fazla numaraya aynı anda veya tek bir numaraya SMS gönderme seçeneğiniz bulunuyor.
+Temel toplama, çıkarma, çarpma ve bölme işlemlerini yapabilir ve sonuçları ekranda görüntüleyebilirsiniz.
 
 ## 📸 Ekran Görüntüsü
 
-![Ekran Görüntüsü](img/image.png)
+![Ekran Görüntüsü](Ekran görüntüsü 2023-09-03 172224.png)
 
 ## 🔧 Kurulum
 
