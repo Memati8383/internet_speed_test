@@ -1,18 +1,18 @@
-# 🧮 Hesap Makinesi
+# 🧮 Internet Speed Test App
 
 Temel toplama, çıkarma, çarpma ve bölme işlemlerini yapabilir ve sonuçları ekranda görüntüleyebilirsiniz.
 
 ## 📸 Ekran Görüntüsü
 
-![Ekran Görüntüsü](Ekran görüntüsü 2023-09-03 172224.png)
+![Ekran Görüntüsü](Ekran-görüntüsü.png)
 
 ## 🔧 Kurulum
 
 Aşağıdaki komutları kullanarak programı kurabilirsiniz:
 
 ```bash
-git clone https://github.com/Memati8383/sms.git
-cd sms
+https://github.com/Memati8383/hesap-makinesi.git
+cd hesap-makinesi
 pip install -r requirements.txt
 python main.py
 ```
